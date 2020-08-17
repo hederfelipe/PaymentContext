@@ -12,3 +12,9 @@ C:\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.T
 C:\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.Tests.csproj.CopyComplete
 C:\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.Tests.dll
 C:\PaymentContext\PaymentContext.Tests\obj\Debug\netstandard2.0\PaymentContext.Tests.pdb
+C:\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\PaymentContext\PaymentContext.Tests\bin\Debug\netstandard2.0\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
